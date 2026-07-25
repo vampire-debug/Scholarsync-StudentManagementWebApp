@@ -2,7 +2,7 @@
 # 📚 ScholarSync
 
 A modern "Student Management System" built using HTML, CSS, JavaScript, PHP, and MySQL.  
-It provides an interactive dashboard to manage student records with authentication, CRUD operations, pagination, and analytics.
+It provides an interactive dashboard to manage student records with authentication, CRUD operations, pagination, and analytics...
 
 ---
 
