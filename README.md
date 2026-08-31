@@ -17,7 +17,7 @@ It provides an interactive dashboard to manage student records with authenticati
 - 📄 Pagination support  
 - 📈 Course-wise chart using Chart.js  
 - 🌗 Light/Dark theme toggle  
-- 🎨 Modern responsive UI with animations  
+- 🎨 Modern responsive UI with animations 
 
 ---
 
