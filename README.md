@@ -9,7 +9,7 @@ It provides an interactive dashboard to manage student records with authenticati
 ## 🚀 Features
 
 - 🔐 Login authentication system  
-- 📊 Dashboard with total student analytics  
+- 📊 Dashboard with total student analytics
 - ➕ Add new students  
 - ✏️ Edit student details (popup modal)  
 - ❌ Delete students  
