@@ -73,7 +73,7 @@ C:\xampp\htdocs\scholarsync
 * Start Apache
 * Start MySQL
 
-### 4. Setup database
+### 4. Setup database 
 
 * Open phpMyAdmin
 * Create database (e.g. `scholarsync`)
